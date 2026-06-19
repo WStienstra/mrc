@@ -1,0 +1,112 @@
+source         size     off  classic   v2.3 fmt   saving
+seismo40        256   36995      200    140   6   +30.0%
+seismo40        256   38500      168    118  10   +29.8%
+seismo40        256  143664      172    117  10   +32.0%
+seismo40        256  169778      176    127   9   +27.8%
+seismo40        256  229355      212    139   6   +34.4%
+seismo40        512    8247      312    233   6   +25.3%
+seismo40        512   42526      248    201   9   +19.0%
+seismo40        512  139576      268    221   9   +17.5%
+seismo40        512  172923      332    241   6   +27.4%
+seismo40        512  204740      248    198   9   +20.2%
+seismo40       1024   20209      536    410   6   +23.5%
+seismo40       1024  115218      396    348   9   +12.1%
+seismo40       1024  155754      396    348   9   +12.1%
+seismo40       1024  157191      540    429   6   +20.6%
+seismo40       1024  266374      424    377   9   +11.1%
+seismo40       4096   36843     1720   1324   6   +23.0%
+seismo40       4096  176555     1728   1345   6   +22.2%
+seismo40       4096  214187     1676   1310   6   +21.8%
+seismo40       4096  269234     1300   1250   9   +3.8%
+seismo40       4096  278068     1316   1267   9   +3.7%
+seismo100       256   34940      172    123   9   +28.5%
+source         size     off  classic   v2.3 fmt   saving
+seismo100       256   88463      210    144  10   +31.4%
+seismo100       256  106382      172    125   9   +27.3%
+seismo100       256  122602      166    120  10   +27.7%
+seismo100       256  208177      197    138   6   +29.9%
+seismo100       512   33041      316    231   7   +26.9%
+seismo100       512   65933      340    257   6   +24.4%
+seismo100       512  158742      256    207   9   +19.1%
+seismo100       512  204934      252    205   9   +18.7%
+seismo100       512  238180      256    207   9   +19.1%
+seismo100      1024   59176      420    372   9   +11.4%
+seismo100      1024   83103      564    424   6   +24.8%
+seismo100      1024  109688      428    379   9   +11.4%
+seismo100      1024  160200      412    365   9   +11.4%
+seismo100      1024  188322      416    367   9   +11.8%
+seismo100      4096  120873     1776   1371   6   +22.8%
+seismo100      4096  129529     1756   1382   6   +21.3%
+seismo100      4096  192671     1760   1369   6   +22.2%
+seismo100      4096  197963     1792   1402   6   +21.8%
+seismo100      4096  222051     1772   1384   6   +21.9%
+bearing-ok      256   65887      267    265   4   +0.7%
+bearing-ok      256   99722      267    265   4   +0.7%
+bearing-ok      256  150365      267    265   4   +0.7%
+bearing-ok      256  478313      267    265   4   +0.7%
+bearing-ok      256  478973      267    265   4   +0.7%
+bearing-ok      512  172173      523    505   6   +3.4%
+bearing-ok      512  235701      523    511   6   +2.3%
+bearing-ok      512  269868      523    485   9   +7.3%
+bearing-ok      512  401520      523    487   9   +6.9%
+bearing-ok      512  479451      523    507   6   +3.1%
+bearing-ok     1024  114556      984    933   6   +5.2%
+bearing-ok     1024  288019     1035    959   6   +7.3%
+bearing-ok     1024  288224      988    938   6   +5.1%
+bearing-ok     1024  350912      980    933   9   +4.8%
+bearing-ok     1024  451955     1035    958   6   +7.4%
+bearing-ok     4096   62291     3768   3599   6   +4.5%
+bearing-ok     4096  388089     3764   3592   6   +4.6%
+bearing-ok     4096  419598     3648   3550   6   +2.7%
+bearing-ok     4096  428963     3768   3586   6   +4.8%
+bearing-ok     4096  467976     3652   3559   6   +2.5%
+bearing-flt     256    3530      267    265   4   +0.7%
+bearing-flt     256   67145      267    265   4   +0.7%
+bearing-flt     256  113159      267    265   4   +0.7%
+bearing-flt     256  166126      267    265   4   +0.7%
+bearing-flt     256  188663      267    265   4   +0.7%
+bearing-flt     512   20115      523    521   4   +0.4%
+bearing-flt     512   73435      523    521   4   +0.4%
+bearing-flt     512  104055      523    521   4   +0.4%
+bearing-flt     512  216834      523    515   9   +1.5%
+bearing-flt     512  235404      523    507   9   +3.1%
+bearing-flt    1024   18511     1035   1004   6   +3.0%
+bearing-flt    1024   35668     1028    981   9   +4.6%
+bearing-flt    1024   58183     1035   1013   6   +2.1%
+bearing-flt    1024  162621     1035   1007   6   +2.7%
+bearing-flt    1024  207092     1035    986   9   +4.7%
+bearing-flt    4096   48215     3936   3870   6   +1.7%
+bearing-flt    4096   51775     3944   3872   6   +1.8%
+bearing-flt    4096  134410     3868   3818   9   +1.3%
+bearing-flt    4096  214931     3936   3871   6   +1.7%
+bearing-flt    4096  237472     3872   3824   9   +1.2%
+
+source           size  classic    v2.3 fmt   saving
+seismo40        16384     5160    5110   9   +1.0%  (2s)
+seismo40        65536    19488   19381  10   +0.5%  (6s)
+seismo40       288000    84456   84407   9   +0.1%  (22s)
+seismo100       16384     5056    5008   9   +0.9%  (2s)
+seismo100       65536    19852   19542  10   +1.6%  (6s)
+seismo100      240000    72600   71353  10   +1.7%  (20s)
+bearing-ok      16384    14324   14037   6   +2.0%  (2s)
+bearing-ok      65536    57008   55936   6   +1.9%  (6s)
+bearing-ok     487876   409148  409100   5   +0.0%  (33s)
+bearing-flt     16384    15188   15148   9   +0.3%  (2s)
+bearing-flt     65536    60656   60625   9   +0.1%  (6s)
+bearing-flt    242530   222536  222543   9   -0.0%  (20s)
+
+frame mode (transport-framed, 1-byte header) vs raw deflate / raw delta+lzma:
+seismo40       64B x12   MRC-planes   33.6B (+48%)   deflate   59.5B   sdelta16+lzma   44.6B
+seismo40      128B x12   MRC-planes   60.7B (+53%)   deflate  106.2B   sdelta16+lzma   69.9B
+seismo40      256B x12   MRC-planes  113.7B (+56%)   deflate  211.1B   sdelta16+lzma  116.1B
+seismo100      64B x12   MRC-planes   34.8B (+46%)   deflate   54.1B   sdelta16+lzma   44.7B
+seismo100     128B x12   MRC-planes   63.8B (+50%)   deflate  101.4B   sdelta16+lzma   69.8B
+seismo100     256B x12   MRC-planes  114.1B (+55%)   deflate  187.8B   sdelta16+lzma  114.9B
+bearing-ok     64B x12   MRC-planes   65.0B (-2%)   deflate   69.0B   sdelta16+lzma   68.0B
+bearing-ok    128B x12   MRC-planes  129.0B (-1%)   deflate  133.0B   sdelta16+lzma  132.0B
+bearing-ok    256B x12   MRC-planes  256.2B (-0%)   deflate  261.0B   sdelta16+lzma  256.8B
+bearing-flt    64B x12   MRC-planes   65.0B (-2%)   deflate   69.0B   sdelta16+lzma   68.0B
+bearing-flt   128B x12   MRC-planes  129.0B (-1%)   deflate  133.0B   sdelta16+lzma  132.0B
+bearing-flt   256B x12   MRC-planes  257.0B (-0%)   deflate  261.0B   sdelta16+lzma  260.0B
+
+DONE realbench
